@@ -22,6 +22,7 @@ Command options explain:
 2. If VirutalBox is already downloaded, add -d option.
 3. If you want to keep the current installed VirutalBox version, add -i option to skip installation.
 4. verbo mode, sure for debug.
+5. 2nd step, this provide a extra step to change IDE to SATA so for a good performance in VB.
 
 The command help screen:
 ------------------------
@@ -34,6 +35,7 @@ OPTIONS:
    -w      Windows volume Name, case sensitive
    -i      No install, will not install the latest version of VirtualBox.
    -d      Do not download
+   -2      Second Step
    -v      verbo mode
    -h      This help
 
@@ -41,5 +43,6 @@ common useage:
 --------------
 1. vbobc -w BOOTCAMP
 2. vbobc -w BOOTCAMP -i -d
+3. vbobc -w BOOTCAMP -2
 
 Bug report and suggestions please email to tonyliu2ca@gmail.com
