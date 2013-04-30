@@ -16,7 +16,7 @@ For users:
 setup your windows (for now, this script assumes it's Windos 7) in BootCamp first. make sure Windows 7 can be loaded
 and all BootCamp drivers are installed properly.
 
-command options:
+Command options explain:
 ----------------
 1. Must provide BootCamp partition name, the original is BOOTCAMP if it wasn't changed.
 2. If VirutalBox is already downloaded, add -d option.
