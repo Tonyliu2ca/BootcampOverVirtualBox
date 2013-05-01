@@ -32,12 +32,18 @@ Copyright Tony Liu, 2013, Version 0.1, Free for Educational or personal use.
 Usage: vbobc options
 
 OPTIONS:
-   -w      Windows volume Name, case sensitive
-   -i      No install, will not install the latest version of VirtualBox.
-   -d      Do not download
-   -2      Second Step
-   -v      verbo mode
-   -h      This help
+
+    -w      Windows volume Name, case sensitive
+    
+    -i      No install, will not install the latest version of VirtualBox.
+    
+    -d      Do not download
+    
+    -2      Second Step
+    
+    -v      verbo mode
+    
+    -h      This help
 
 common useage:
 --------------
